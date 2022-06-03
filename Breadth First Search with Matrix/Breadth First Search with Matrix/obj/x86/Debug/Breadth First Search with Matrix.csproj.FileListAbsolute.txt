@@ -1,0 +1,5 @@
+C:\Users\HDMI\documents\visual studio 2010\Projects\Breadth First Search with Matrix\Breadth First Search with Matrix\bin\Debug\Breadth First Search with Matrix.exe
+C:\Users\HDMI\documents\visual studio 2010\Projects\Breadth First Search with Matrix\Breadth First Search with Matrix\bin\Debug\Breadth First Search with Matrix.pdb
+C:\Users\HDMI\documents\visual studio 2010\Projects\Breadth First Search with Matrix\Breadth First Search with Matrix\obj\x86\Debug\Breadth First Search with Matrix.csprojResolveAssemblyReference.cache
+C:\Users\HDMI\documents\visual studio 2010\Projects\Breadth First Search with Matrix\Breadth First Search with Matrix\obj\x86\Debug\Breadth First Search with Matrix.exe
+C:\Users\HDMI\documents\visual studio 2010\Projects\Breadth First Search with Matrix\Breadth First Search with Matrix\obj\x86\Debug\Breadth First Search with Matrix.pdb
